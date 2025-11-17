@@ -2,10 +2,11 @@ Hi there, I'm Nandhini Natarajan 👋
 
 
 🚀 About Me
-
-Data-driven Software Developer and Data Engineer with expertise in Python, React JS, SQL, Oracle, and Power BI. Skilled in ETL, data warehousing, data migration, and interactive dashboards, delivering high-performance applications and actionable business insights. Experienced in full-stack development, CRM systems, and mentoring teams, with a proven ability to implement scalable, data-focused solutions.
+Results-oriented Data Analyst with 8 years of experience in data visualization, business intelligence, and database management across banking, healthcare, and telecom domains. Skilled in SQL, Snowflake, Power BI, and SAP Business Objects, with a strong background in data modeling and pipeline automation. Adept at transforming complex datasets into actionable insights, building KPI dashboards, and supporting strategic business decisions. Experienced in collaborating with cross-functional teams to deliver high-quality data solutions.
 
 🛠️ Tech Stack
+Data Visualization & BI Tools: Power BI, Tableau, DAX Measures, KPI Dashboards, Performance Scorecards, Data Storytelling, SAP Business Objects
+Database & Querying: 	SQL, PL/SQL, Snowflake, Oracle Database, SQL Server, PostgreSQL, MySQL, Stored Procedures, Functions
+Programming & Scripting: 	Python (NumPy, Pandas), SQL
 
-Python, C, C++, C#, PHP, SQL, PL/SQL, JavaScript · React Hooks, HTML5, CSS3, ASP.NET, .NET Framework, WordPress · Experienced in ETL development, data modeling, transformation, migration, warehousing, and pipeline automation · Skilled in Power BI, Tableau, DAX, data visualization, reporting, and analytics · Strong in Oracle, MySQL, SQL Server, stored procedures, triggers, performance tuning, API integration, Git/GitHub, OOP, SDLC, testing, and technical mentorship.
 
