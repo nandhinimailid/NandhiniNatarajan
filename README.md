@@ -7,7 +7,7 @@ With over a decade of IT experience and 5+ years specializing as a ServiceNow De
 
 🛠️ Tech Stack
 
-ServiceNow Stack   ||  ITSM, CSM, HRSD, ITOM (Discovery/Mapping), ITAM, GRC, ITBM
+ServiceNow Stack   ||  ITSM, CSM, HRSD, ITOM (Discovery/Mapping), ITAM, GRC, ITBM /n
 Data Visualization ||  Power BI, Tableau, SAP Business Objects, DAX, KPI Dashboards
 Databases          ||  SQL, Snowflake, Oracle, SQL Server, PostgreSQL, MySQL
 Development        ||  Python (NumPy, Pandas), PL/SQL, Stored Procedures, Functions
